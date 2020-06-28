@@ -22,7 +22,7 @@
 
 Description 👀
 
-Title 📌  Scrape Telegram Members and Add to your Group 2020
+Title 📌  Scrape_Telegram_Members
 
 💀 Made by ☠️👊 𝕿𝖍𝖎𝖘 𝕴𝖘 𝕿𝖍𝖊 𝓜4𝓷𝓲𝓯𝓮𝓼𝓽0 𝕿𝖊𝖆𝖒™💪🏴‍☠️
 
